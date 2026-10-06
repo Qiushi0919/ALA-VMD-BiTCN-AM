@@ -1,0 +1,107 @@
+{
+  "code/legacy/ALA-VMD-BiTCN-AM.py": {
+    "source": "代码文件/Ei会议-ALA-VMD-BiTCN-AM/ALA-VMD-BiTCN-AM.py",
+    "sha256": "ad42fc78ef99cad1177bd491679fa046c383f64300cc7740d6503ab413f49cf2",
+    "bytes": 10841
+  },
+  "code/legacy/BITCN-AM.py": {
+    "source": "代码文件/Ei会议-ALA-VMD-BiTCN-AM/BITCN-AM.py",
+    "sha256": "a11d53eff59a6f1a3f0ca30554e3402dbb1218e830fa77d2b4373cf20f3b07a0",
+    "bytes": 10551
+  },
+  "code/legacy/BiTCN.py": {
+    "source": "代码文件/Ei会议-ALA-VMD-BiTCN-AM/BiTCN.py",
+    "sha256": "f29ffbe17fd483ce95639aa38eca09c939a786dd879bef7f24fb37bcd1c551f1",
+    "bytes": 10169
+  },
+  "code/legacy/VMD-BiTCN-AM.py": {
+    "source": "代码文件/Ei会议-ALA-VMD-BiTCN-AM/VMD-BiTCN-AM.py",
+    "sha256": "d6eea0bf9c6f5fb85ad9b523e30b102b50fef9615e8e9c686dee8116a0cc2f89",
+    "bytes": 10761
+  },
+  "code/legacy/VMD-BiTCN.py": {
+    "source": "代码文件/Ei会议-ALA-VMD-BiTCN-AM/VMD-BiTCN.py",
+    "sha256": "5b543640db56b84c1dbd2efe2b2ec8a8a5d28d3c57b6e48c92227ae87c061eed",
+    "bytes": 10176
+  },
+  "data/capacity/B5.csv": {
+    "source": "代码文件/Ei会议-ALA-VMD-BiTCN-AM/B5.csv",
+    "sha256": "4ca2394674f8c11ca04e2d98ad32275f5ddbf260017a649ab4fcb72e8daa8470",
+    "bytes": 2169
+  },
+  "data/capacity/CS2_38.csv": {
+    "source": "代码文件/Ei会议-ALA-VMD-BiTCN-AM/CS2_38.csv",
+    "sha256": "a1795435f744dc1bb2101daa8fa975b0f56fc7e3235baa64cb8c38ff3bbfb0a9",
+    "bytes": 12841
+  },
+  "data/decompositions/ALAVMDB5.csv": {
+    "source": "代码文件/Ei会议-ALA-VMD-BiTCN-AM/ALAVMDB5.csv",
+    "sha256": "018954033d90da9d4f092008c0e4e9a97b577eeaf267ca8c9cda03e03a4ea755",
+    "bytes": 18671
+  },
+  "data/decompositions/ALAVMDCS238.csv": {
+    "source": "代码文件/Ei会议-ALA-VMD-BiTCN-AM/ALAVMDCS238.csv",
+    "sha256": "7f80548c184bd69255655df642e6f17cedfb657eb0350fea6e3ecadc60d41ede",
+    "bytes": 157878
+  },
+  "data/decompositions/VMDB5.csv": {
+    "source": "代码文件/Ei会议-ALA-VMD-BiTCN-AM/VMDB5.csv",
+    "sha256": "3e7bd6dc80e34aac91d0fad509fb9ee82f30831fddff70644ca2b23e7845ffbe",
+    "bytes": 10401
+  },
+  "data/decompositions/VMDCS238.csv": {
+    "source": "代码文件/Ei会议-ALA-VMD-BiTCN-AM/VMDCS238.csv",
+    "sha256": "e885de2f706a984cb2495d06ae4f6f0d292400a5cf2c4e4bf2aedff934b53d6c",
+    "bytes": 61500
+  },
+  "results/ALA-VMD-BiTCN-AM-38.csv": {
+    "source": "实验结果/实验结果/ALA-VMD-BiTCN-AM-38.csv",
+    "sha256": "bf285a2c41a61d85cdeb7abb4bd4e3b15b80112f932be7d4259166d7c8b5088c",
+    "bytes": 36273
+  },
+  "results/ALA-VMD-BiTCN-AM-B5.csv": {
+    "source": "实验结果/实验结果/ALA-VMD-BiTCN-AM-B5.csv",
+    "sha256": "7a8334c04dd6c98e815fba83a23d35de4cdf3e16086b3f9b242cdba3f4e71202",
+    "bytes": 4838
+  },
+  "results/BiTCN-38.csv": {
+    "source": "实验结果/实验结果/BiTCN-38.csv",
+    "sha256": "bdab986a2a57de2dd849cd0e1912156adba23631cb7fd118296779b62f0d9dbe",
+    "bytes": 35104
+  },
+  "results/BiTCN-AM-38.csv": {
+    "source": "实验结果/实验结果/BiTCN-AM-38.csv",
+    "sha256": "b8b2e3338ec0d49dcba628f1cb3f6b5908bc59835243dd8c1a065f451eada56e",
+    "bytes": 35188
+  },
+  "results/BiTCN-AM-B5.csv": {
+    "source": "实验结果/实验结果/BiTCN-AM-B5.csv",
+    "sha256": "c9d244d9ff00ecac82b16aa797710b753dd483ca059bcb78e115248366202522",
+    "bytes": 4769
+  },
+  "results/BiTCN-B5.csv": {
+    "source": "实验结果/实验结果/BiTCN-B5.csv",
+    "sha256": "6512a81647061bcda1c549e237c3faa9ffaf57bcbcf4c860b288160de1f0ef7a",
+    "bytes": 4726
+  },
+  "results/VMD-BiTCN-38.csv": {
+    "source": "实验结果/实验结果/VMD-BiTCN-38.csv",
+    "sha256": "794da19f2a6dc0df1b6375447d87533ae12f35f28aa5a52fc2d9abff166551f8",
+    "bytes": 35349
+  },
+  "results/VMD-BiTCN-AM-38.csv": {
+    "source": "实验结果/实验结果/VMD-BiTCN-AM-38.csv",
+    "sha256": "3fb42f407e0f791937f3f9bbeb914d7948d29ecd28d2b18dce3d3890ab963d22",
+    "bytes": 35429
+  },
+  "results/VMD-BiTCN-AM-B5.csv": {
+    "source": "实验结果/实验结果/VMD-BiTCN-AM-B5.csv",
+    "sha256": "0ef8a97947fcc53d0500cc5418c22ad495faf4e016a7118c5257aeae0495bfb5",
+    "bytes": 4830
+  },
+  "results/VMD-BiTCN-B5.csv": {
+    "source": "实验结果/实验结果/VMD-BiTCN-B5.csv",
+    "sha256": "fe58af90da30e3b32642beb400adf1f74063d8829e8fd8d4c28f00b7d9fedc8b",
+    "bytes": 4779
+  }
+}

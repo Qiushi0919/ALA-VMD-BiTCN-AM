@@ -1,0 +1,127 @@
+{
+  "verified_source_files": 21,
+  "datasets": {
+    "B5": {
+      "dataset": "NASA",
+      "battery": "B0005",
+      "capacity_rows": 168,
+      "target_index_range": [
+        61,
+        167
+      ],
+      "failure_threshold_Ah": 1.4,
+      "decomposition_components": {
+        "ALAVMDB5.csv": 8,
+        "VMDB5.csv": 4
+      },
+      "methods": {
+        "BiTCN": {
+          "points": 107,
+          "rmse_Ah": 0.0231884130696978,
+          "mae_Ah": 0.01871945408411214,
+          "r2": 0.9573081180860765,
+          "true_eol_index": 124,
+          "predicted_eol_index": 116,
+          "eol_absolute_error": 8
+        },
+        "BiTCN-AM": {
+          "points": 107,
+          "rmse_Ah": 0.01702154961111958,
+          "mae_Ah": 0.011476050887850458,
+          "r2": 0.9769961020078204,
+          "true_eol_index": 124,
+          "predicted_eol_index": 119,
+          "eol_absolute_error": 5
+        },
+        "VMD-BiTCN": {
+          "points": 107,
+          "rmse_Ah": 0.013658358016989634,
+          "mae_Ah": 0.009876737074766356,
+          "r2": 0.9851884595819689,
+          "true_eol_index": 124,
+          "predicted_eol_index": 122,
+          "eol_absolute_error": 2
+        },
+        "VMD-BiTCN-AM": {
+          "points": 107,
+          "rmse_Ah": 0.012377510848339431,
+          "mae_Ah": 0.007917496813084107,
+          "r2": 0.98783618308958,
+          "true_eol_index": 124,
+          "predicted_eol_index": 122,
+          "eol_absolute_error": 2
+        },
+        "ALA-VMD-BiTCN-AM": {
+          "points": 107,
+          "rmse_Ah": 0.011369184296501593,
+          "mae_Ah": 0.007484025074766359,
+          "r2": 0.9897372947411796,
+          "true_eol_index": 124,
+          "predicted_eol_index": 124,
+          "eol_absolute_error": 0
+        }
+      }
+    },
+    "38": {
+      "dataset": "CALCE",
+      "battery": "CS2_38",
+      "capacity_rows": 996,
+      "target_index_range": [
+        201,
+        995
+      ],
+      "failure_threshold_Ah": 0.88,
+      "decomposition_components": {
+        "ALAVMDCS238.csv": 12,
+        "VMDCS238.csv": 4
+      },
+      "methods": {
+        "BiTCN": {
+          "points": 795,
+          "rmse_Ah": 0.017987557961860755,
+          "mae_Ah": 0.016448844850314465,
+          "r2": 0.9910908755943949,
+          "true_eol_index": 650,
+          "predicted_eol_index": 596,
+          "eol_absolute_error": 54
+        },
+        "BiTCN-AM": {
+          "points": 795,
+          "rmse_Ah": 0.013933048196101241,
+          "mae_Ah": 0.012561210090566032,
+          "r2": 0.9946545670127734,
+          "true_eol_index": 650,
+          "predicted_eol_index": 606,
+          "eol_absolute_error": 44
+        },
+        "VMD-BiTCN": {
+          "points": 795,
+          "rmse_Ah": 0.01016328557340171,
+          "mae_Ah": 0.008962637544654086,
+          "r2": 0.9971558082772162,
+          "true_eol_index": 650,
+          "predicted_eol_index": 612,
+          "eol_absolute_error": 38
+        },
+        "VMD-BiTCN-AM": {
+          "points": 795,
+          "rmse_Ah": 0.007444463734019523,
+          "mae_Ah": 0.006567767748427673,
+          "r2": 0.9984739897603628,
+          "true_eol_index": 650,
+          "predicted_eol_index": 619,
+          "eol_absolute_error": 31
+        },
+        "ALA-VMD-BiTCN-AM": {
+          "points": 795,
+          "rmse_Ah": 0.004899491368334354,
+          "mae_Ah": 0.0035770977283018906,
+          "r2": 0.9993390134773845,
+          "true_eol_index": 650,
+          "predicted_eol_index": 652,
+          "eol_absolute_error": 2
+        }
+      }
+    }
+  }
+}
